@@ -4,3 +4,4 @@ my second step Add basic To-Do list UI – Created input field and task display 
 this was my third step Implement add task functionality – Users can now add tasks to the list.
 the next step i Implement delete task functionality – Users can remove tasks from the list.
 and the i Add task completion toggle – Users can mark tasks as completed or pending.
+and another is Save tasks to local storage – Persist tasks after page refresh.
