@@ -6,3 +6,6 @@ the next step i Implement delete task functionality – Users can remove tasks f
 and the i Add task completion toggle – Users can mark tasks as completed or pending.
 and another is Save tasks to local storage – Persist tasks after page refresh.
 i Add edit task feature – Users can edit existing tasks.
+an then i Add task filtering – Filter tasks by “all”, “completed”, or “pending”.
+Style To-Do list with Tailwind CSS – Improved UI design and responsiveness.
+Refactor code for readability – Cleaned up functions and added comments.
