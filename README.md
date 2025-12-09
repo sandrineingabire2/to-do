@@ -5,3 +5,4 @@ this was my third step Implement add task functionality – Users can now add ta
 the next step i Implement delete task functionality – Users can remove tasks from the list.
 and the i Add task completion toggle – Users can mark tasks as completed or pending.
 and another is Save tasks to local storage – Persist tasks after page refresh.
+i Add edit task feature – Users can edit existing tasks.
